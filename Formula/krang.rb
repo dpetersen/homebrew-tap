@@ -1,8 +1,8 @@
 class Krang < Formula
   desc "TUI task orchestrator for managing multiple Claude Code sessions via tmux"
   homepage "https://github.com/dpetersen/krang"
-  url "https://github.com/dpetersen/krang/archive/refs/tags/v1.0.0-beta.2.tar.gz"
-  sha256 "3a465ceb4e6ec69ad73b12b1a206dd0b0bb5da971f14c1765456ff98a70df104"
+  url "https://github.com/dpetersen/krang/archive/refs/tags/v1.0.0-beta.3.tar.gz"
+  sha256 "8388902ae60d7e7a6341ce7bc13ea866a4ecb0272f1070f7f90d6d0befd6a270"
   license "MIT"
 
   depends_on "go" => :build
